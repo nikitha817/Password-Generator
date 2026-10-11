@@ -24,7 +24,7 @@ A simple tool that creates random, secure passwords. You choose the length, and 
 ## How to Run
 
 ```bash
-python password_generator.py
+python Project6.py
 ```
 
 Then enter your desired password length.
